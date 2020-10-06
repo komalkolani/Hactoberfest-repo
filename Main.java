@@ -34,7 +34,8 @@ class GFG {
         int arr[] = {1, 2, 3}; 
         int m = arr.length; 
         System.out.println( count(arr, m, 4)); 
-          
+        System.out.println( count("Hrishi Urff Machoman"); 
+
           
     } 
   
